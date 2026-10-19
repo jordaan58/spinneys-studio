@@ -1,1 +1,1 @@
-Spinneys Studio v16: Replace index.html and sw.js in your GitHub repository. Scanner status now distinguishes decoder loading and failure; close and manual buttons are initialized correctly. Internet access is required for the ZXing fallback decoder.
+Spinneys Studio v15. Upload index.html and sw.js to the existing GitHub repository root, replacing the previous files. This fixes scanner close controls and adds an online ZXing decoding fallback. Do not upload the ZIP itself.
