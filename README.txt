@@ -1,0 +1,1 @@
+Upload index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, and .nojekyll to the ROOT of your GitHub repository. Do not upload the ZIP itself. Prototype only: no persistent photo storage; use non-confidential test data. HTTPS required for camera.
