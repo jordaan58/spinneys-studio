@@ -1,1 +1,1 @@
-Upload index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, and .nojekyll to the ROOT of your GitHub repository. Do not upload the ZIP itself. Prototype only: no persistent photo storage; use non-confidential test data. HTTPS required for camera.
+Spinneys Studio v15. Upload index.html and sw.js to the existing GitHub repository root, replacing the previous files. This fixes scanner close controls and adds an online ZXing decoding fallback. Do not upload the ZIP itself.
