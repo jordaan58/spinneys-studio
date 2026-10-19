@@ -1,1 +1,1 @@
-Spinneys Studio v15. Upload index.html and sw.js to the existing GitHub repository root, replacing the previous files. This fixes scanner close controls and adds an online ZXing decoding fallback. Do not upload the ZIP itself.
+Spinneys Studio v19: fixes missing decodeFromCanvas by using ZXing MultiFormatReader with RGBLuminanceSource. Camera startup remains unchanged. Upload index.html and sw.js to GitHub Pages.
