@@ -1,1 +1,1 @@
-Spinneys Studio v19: fixes missing decodeFromCanvas by using ZXing MultiFormatReader with RGBLuminanceSource. Camera startup remains unchanged. Upload index.html and sw.js to GitHub Pages.
+Spinneys Studio v20: keep camera startup from v15/v19; handle normal ZXing no-match messages without showing them as errors; scan center and full frame. Replace index.html and sw.js on GitHub Pages.
